@@ -1,0 +1,162 @@
+Started Sat Oct 26 18:49:02 2024
+in C:\Users\dskar\AppData\Local\Temp\RtmpIHyg7o\file2900265d5757.fa out C:\Users\dskar\AppData\Local\Temp\RtmpIHyg7o\file2900b793d14.afa log alignment_log.txt verbose 
+Alphabet DNA
+
+MUSCLE v3.8.31 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    SPN
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   224
+Gap open                 -400
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              0
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     999
+Min best col score       90
+Min anchor score         90
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         False
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   False
+Catch exceptions         True
+Quiet                    False
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer4_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+16 seqs, max length 697, avg  length 667
+Elapsed time 00:00:00  Peak memory use               Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use               Iteration   1 K-mer dist pass 2
+Align: (2) (4)
+Align: (7) (9)
+Align: (5) (7,9)
+Align: (6) (5,7,9)
+Align: (1) (6,5,7,9)
+Align: (8) (1,6,5,7,9)
+Align: (11) (13)
+Align: (14) (11,13)
+Align: (12) (14,11,13)
+Align: (16) (12,14,11,13)
+Align: (8,1,6,5,7,9) (16,12,14,11,13)
+Align: (15) (8,1,6,5,7,9,16,12,14,11,13)
+Align: (10) (15,8,1,6,5,7,9,16,12,14,11,13)
+Align: (2,4) (10,15,8,1,6,5,7,9,16,12,14,11,13)
+Align: (3) (2,4,10,15,8,1,6,5,7,9,16,12,14,11,13)
+Elapsed time 00:00:03  Peak memory use               Iteration   1 Align node
+Elapsed time 00:00:03  Peak memory use               Iteration   1 Root alignment
+Elapsed time 00:00:04  Peak memory use               Iteration   2 Refine tree
+Elapsed time 00:00:04  Peak memory use               Iteration   2 Root alignment
+Elapsed time 00:00:04  Peak memory use               Iteration   2 Root alignment
+Anchor columns found       0
+DP area saved by anchors   0.0 %
+Elapsed time 00:00:09  Peak memory use               Iteration   3 Refine biparts
+Finished Sat Oct 26 18:49:12 2024
+Started Sat Oct 26 19:01:31 2024
+in C:\Users\dskar\AppData\Local\Temp\RtmpIHyg7o\file290056bc1a58.fa out C:\Users\dskar\AppData\Local\Temp\RtmpIHyg7o\file29001fd6753.afa log alignment_log.txt verbose 
+Alphabet DNA
+
+MUSCLE v3.8.31 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    SPN
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   700
+Gap open                 -400
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              0
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     999
+Min best col score       90
+Min anchor score         90
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         False
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   False
+Catch exceptions         True
+Quiet                    False
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer4_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+16 seqs, max length 697, avg  length 667
+Elapsed time 00:00:01  Peak memory use               Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:01  Peak memory use               Iteration   1 K-mer dist pass 2
+Align: (2) (4)
+Align: (7) (9)
+Align: (5) (7,9)
+Align: (6) (5,7,9)
+Align: (1) (6,5,7,9)
+Align: (8) (1,6,5,7,9)
+Align: (11) (13)
+Align: (14) (11,13)
+Align: (12) (14,11,13)
+Align: (16) (12,14,11,13)
+Align: (8,1,6,5,7,9) (16,12,14,11,13)
+Align: (15) (8,1,6,5,7,9,16,12,14,11,13)
+Align: (10) (15,8,1,6,5,7,9,16,12,14,11,13)
+Align: (2,4) (10,15,8,1,6,5,7,9,16,12,14,11,13)
+Align: (3) (2,4,10,15,8,1,6,5,7,9,16,12,14,11,13)
+Elapsed time 00:00:01  Peak memory use               Iteration   1 Align node
+Elapsed time 00:00:01  Peak memory use               Iteration   1 Root alignment
+Elapsed time 00:00:01  Peak memory use               Iteration   2 Refine tree
+Elapsed time 00:00:01  Peak memory use               Iteration   2 Root alignment
+Elapsed time 00:00:01  Peak memory use               Iteration   2 Root alignment
+Anchor columns found       0
+DP area saved by anchors   0.0 %
+Elapsed time 00:00:01  Peak memory use               Iteration   3 Refine biparts
+Finished Sat Oct 26 19:01:32 2024
