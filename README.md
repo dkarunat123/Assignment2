@@ -1,28 +1,25 @@
 University of Guelph - BINF 6210: Bioinformatics Software Tools
 
-Phylogenetic Signal in Body Mass and Habitat Breadth Traits Among Mustelidae Species
+# ***Phylogenetic Signal in Body Mass and Habitat Breadth Traits Among Mustelidae Species***
 
 Dilma Karunathilake (0969209)
 
 
-
-Introduction: 
+## **Introduction:** 
 
 This project investigates the relationship between two traits, body size and habitat breadth, within the Mustelidae Family. Mustelidae is composed of a variety of species, including otters, weasels, ferrets, badger, wolverines, and ferrets (Britannica Mustelid, 2024). Understanding whether these traits are evolutionarily conserved within this Family is important as this can provide insight into the ecological and evolutionary pressures that shape species adaptation. This project will explore whether there is a significant correlation between body size and habitat specialization and whether these traits exhibit a phylogenetic signal, indicating evolutionary inheritance. The presence of a phylogenetic signal indicates that species that are closely related tend to exhibit similar trait values specifically because of their shared ancestry (Adams, 2014). To conduct this analysis, Mustelidae species sequence data from the cytochrome c oxidase subunit I (COI) gene, a commonly used DNA barcode marker for animals, combined with trait data from the PanTHERIA database (Jones et al., 2009). DNA sequence analysis methods such as multiple sequence alignment and phylogenetic tree construction are applied alongside statistical tests (Blomberg’s K and Pagel’s λ), to assess phylogenetic signals (Münkemüller et al., 2012).
 
 The objective of this project is to answer the research question: "Are body size and habitat breadth correlated within the Mustelidae family, and do these traits exhibit significant phylogenetic signals?". This will allow us to determine if body size and habitat breadth are phylogenetically conserved and evaluate the relationship between the traits themselves. This project also aims to contribute to understanding evolutionary patterns within the Mustelidae Family and demonstrates how DNA sequence data and phylogenetic comparative methods can address ecological and evolutionary questions.
 
 
-
-Results & Discussion: 
+## **Results & Discussion:**
 
 In this project, the phylogenetic structure and trait correlation within the Mustelidae Family, focusing on body mass and habitat breadth, was examined. Figure 1, a boxplot of adult body mass, shows the variation in size among Mustelidae species, with a median around 3750 grams and several extreme values, highlighting the diversity in body sizes within this Family. Figure 2, a histogram of habitat breadth, reveals that most species occupy a narrow range of habitats, indicating a trend toward habitat specialization, while a few species demonstrate greater habitat generalism. The scatter plot in Figure 3 shows a positive, albeit weak, correlation between body mass and habitat breadth, suggesting that larger species may have adapted to a broader range of habitats. However, the shallow slope of the regression line indicates that this relationship is not particularly strong, meaning that other ecological or phylogenetic factors may be influencing this association. The phylogenetic analyses used in this project also further support these observations. Figure 4, a phylogenetic tree of 16 species of Mustelidae, illustrates the evolutionary relationships among the species based on COI-5P sequence data. Statistical tests indicate significant phylogenetic signals for both traits. Blomberg’s K test resulted in a K value of 1.37 (p = 0.001) for body mass and 1.23 (p = 0.029) for habitat breadth, showing that both traits are phylogenetically conserved. Pagel’s λ test confirmed these findings as well, with λ values close to 1 for both traits (body mass: λ = 0.999, p = 0.011, habitat breadth: λ = 0.999, p = 0.022), suggesting that closely related species share similar body sizes and habitat breadths. 
 
 While the dataset was sufficient to detect these patterns, a limitation of this study is the modest sample size, as only 16 species had both sequence and trait data available, which may be limiting broader generalizations within the Family. Future work could expand the dataset by including additional Mustelidae species or traits, and possibly reveal further ecological or evolutionary patterns. Additionally, analyzing different gene regions other than COI-5P might provide a more comprehensive understanding of trait evolution in relation to phylogenetic signals within this diverse Family.
 
 
-
-References: 
+## **References:**
 
 Adams, D. C. (2014). A generalized K statistic for estimating phylogenetic signal from shape and 
 other high-dimensional multivariate data. Systematic Biology, 63(5), 685–697. https://doi.org/10.1093/sysbio/syu030
